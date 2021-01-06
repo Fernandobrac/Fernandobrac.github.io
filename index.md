@@ -80,7 +80,7 @@ Some of my favorite quotes are:
 
 
 
-> When you reach the end of your rope, tie a knot in it and hang on." -*Franklin D. Roosevelt*
+> When you reach the end of your rope, tie a knot in it and hang on. -*Franklin D. Roosevelt*
 
 
 
