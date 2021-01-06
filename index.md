@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# Welcome to my personal website
 
-You can use the [editor on GitHub](https://github.com/Fernandobrac/Fernandobrac.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Outline
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Introduction](#Introduction)
+- [Programming Languages](#Programming-Languages)
+- [Hobbies](#Hobbies)
+- [Favorite Quotes](#Favorite-Quotes)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Introduction
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+```python
+print("Hello World. My name is Fernando Bracamonte.") 
+print ("I am a studying Computer Science specialized in Bioinformatics in the University of California San Diego. ")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fernandobrac/Fernandobrac.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+![UCSD CSE DEPARTMENT](https://jacobsschool.ucsd.edu/sites/default/files/groups/jsoe/img/logos/cse/print/UCSDLogo_JSOE-ComputerSciEng_BlueGold_Print.jpg)
+
+
+
+The important courses I have taken so far are:
+
+
+| Fall 2019                             | Winter 2020 | Spring 2020 | Fall 2020 | Winter 2021 |
+| ------------------------------------- | ----------- | ----------- | --------- | ----------- |
+| CSE 11 | CSE 12 | CSE 30 | CSE 100 | CSE 101 |
+| CSE 20 | CSE 21 | | CSE 193 | CSE 110 |
+
+
+
+- [x] BIMM 101
+- [x] BIMM 100
+- [ ] CSE 181
+- [ ] CSE 182
+- [ ] CSE 185
+
+
+
+### Programming Languages
+
+1. Java
+2. C/C++
+3. Python :+1:
+
+
+
+### Hobbies 
+I am interested in many things, such as: 
+
+- Mountain biking
+- \*Playing basketball\*
+- Watching Sports
+  - **NBA** :+1:
+  - NFL
+  - ~~Soccer~~
+- Drawing 
+- Watching movies and TV shows
+
+
+
+### Favorite Quotes
+
+Some of my favorite quotes are:
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's  thinking. - *Steve Jobs*
+>
+
+
+
+> When you reach the end of your rope, tie a knot in it and hang on." -*Franklin D. Roosevelt*
+
+
+
+
+
+This website was made using [GitHub](https://github.com/)
